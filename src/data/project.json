@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Luff Forever",
+    "imageSrc": "projects/mem.jpg",
+    "description": "This Dot Net MVC Umbraco project revolves around posting memorials for loved ones, focusing mainly on backend development. Integrated payment, email, Google Meet, and authentication.",
+    "skills": ["Dotnet MVC", "Umbraco", "C#"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Myntra Clone",
+    "imageSrc": "projects/Myntra.jpg",
+    "description": "This project was developed for educational purposes to learn React.js and Redux. It is a non-responsive clone of Myntra, focusing on frontend development.",
+    "skills": ["React js", "Redux"],
+    "demo": "https://myntra-clone-five-weld.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Muztrans",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a robust Dot Net Web API for efficient space management, incorporating advanced features such as CQRS architecture, Dot Net Identity for secure authentication, JWT tokens for enhanced security, seamless email integration, and comprehensive error handling.",
+    "skills": ["ASP.NET", "Web Api", "C#"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "I've built my portfolio using React.js, showcasing my skills, projects, and professional experience to provide a comprehensive overview of my capabilities and achievements.",
+    "skills": ["React Js", "HTML", "CSS"],
+    "demo": "/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.jpg",
+    "description": "I've built a weather app with React.js, integrating live weather data via an API for accurate forecasts and user-friendly experience.",
+    "skills": ["React", "HTML", "Node"],
+    "demo": "https://weather-app-nine-eta-68.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Electro Master",
+    "imageSrc": "projects/Electro.jpg",
+    "description": "This e-commerce project on Umbraco Commerce includes payment integration and Algolia AI search functionality for an enhanced shopping experience.",
+    "skills": ["Umbraco Commerce", "Dotnet MVC"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

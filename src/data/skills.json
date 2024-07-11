@@ -1,0 +1,42 @@
+[
+  {
+  "title": "React",
+  "imageSrc": "skills/react.png"
+  },
+  {
+  "title": "JavaScript",
+  "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },  
+  {
+    "title": "SCSS",
+    "imageSrc": "skills/Scss.png"
+  },  
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/Bootstrap.png"
+  },  
+  {
+    "title": "Tailwind Css",
+    "imageSrc": "skills/tailwind_css.png"
+  },
+  {
+    "title": "React-native",
+    "imageSrc": "skills/React-native-logo.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/Redux logo.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/Git.png"
+  }
+]

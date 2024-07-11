@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Devloper",
+    "organisation": "Iconnect",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Software Developer", "Focus on frontend things and api integration"],
+    "imageSrc": "history/Iconnect.png"
+  },
+  {
+    "role": "UI Developer",
+    "organisation": "ANG Software",
+    "startDate": "June 2021",
+    "endDate": "Mar 2023",
+    "experiences": ["React js development", "Basic knowledge in node.js, express.js, mongo db."],
+    "imageSrc": "history/ANG-logo-w.svg"
+  }
+]
